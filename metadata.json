@@ -1,0 +1,5 @@
+{
+  "name": "GridVideo Splitter Pro",
+  "description": "A high-performance utility to split a 3x3 grid video into 9 individual video streams using browser-side canvas processing and Gemini-assisted segment analysis.",
+  "requestFramePermissions": []
+}
